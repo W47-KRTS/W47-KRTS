@@ -7,4 +7,8 @@
 - ❤️ Even if there are still many things to learn and do, we must always find a way or make one ourselves!
 - 📫 How to reach me: www.linkedin.com/in/ionut-postu-krts47
 - ⚡ Fun fact: I am accually a mechanical design engineer. I wanted to see what more life has to offer.
-
+- 💻 Please include the following information when sending me recommended jobs:
+  -Annual salary
+  -Position or job description
+  -Discretion of jobs
+  -Work location and work style
