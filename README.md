@@ -23,3 +23,5 @@
   <img width='60%' alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hotoo/hotoo/output/github-contribution-grid-snake.svg">
 </picture>
 </a>
+
+![image](https://github.com/user-attachments/assets/5356893a-b219-4da1-85cf-52e863a47730)
