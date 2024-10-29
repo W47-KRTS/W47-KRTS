@@ -8,17 +8,17 @@
 - 📫 How to reach me: www.linkedin.com/in/ionut-postu-krts47
 - ⚡ Fun fact: I am accually a mechanical design engineer. I wanted to see what more life has to offer.
 - 💻 Please include the following information when sending me recommended jobs:
-  -Annual salary
-  -Position or job description
-  -Discretion of jobs
-  -Work location and work style
+  - Annual salary
+  - Position or job description
+  - Discretion of jobs
+  - Work location and work style
 
 <a href="#">
 <image width='38%' src="https://github-readme-stats.vercel.app/api?username=W47-KRTS&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
 </a>
 <a href="#">
 <picture width='60%'>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/W47-KRTS/W47-KRTS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hootoo/hootoo/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/W47-KRTS/W47-KRTS/output/github-contribution-grid-snake.svg">
   <img width='60%' alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/W47-KRTS/W47-KRTS/output/github-contribution-grid-snake.svg">
 
