@@ -14,7 +14,7 @@
   -Work location and work style
 
   <a href="#">
-<image width='38%' src="https://github-readme-stats.vercel.app/api?username=hotoo&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
+<image width='38%' src="https://github-readme-stats.vercel.app/api?username=W47-KRTS&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
 </a>
 <a href="#">
 <picture width='60%'>
