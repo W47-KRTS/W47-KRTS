@@ -12,3 +12,14 @@
   -Position or job description
   -Discretion of jobs
   -Work location and work style
+
+  <a href="#">
+<image width='38%' src="https://github-readme-stats.vercel.app/api?username=hotoo&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
+</a>
+<a href="#">
+<picture width='60%'>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hotoo/hotoo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hotoo/hotoo/output/github-contribution-grid-snake.svg">
+  <img width='60%' alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hotoo/hotoo/output/github-contribution-grid-snake.svg">
+</picture>
+</a>
