@@ -18,19 +18,8 @@
 </a>
 <a href="#">
 <picture width='60%'>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/W47-KRTS/W47-KRTS/blob/f7ae1e22dda755ae22bbd1e6d0b5f3f9f0f004c3/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/W47-KRTS/W47-KRTS/blob/f7ae1e22dda755ae22bbd1e6d0b5f3f9f0f004c3/github-contribution-grid-snake.svg">
-  <img width='60%' alt="https://github.com/W47-KRTS/W47-KRTS/blob/f7ae1e22dda755ae22bbd1e6d0b5f3f9f0f004c3/github-contribution-grid-snake.svg"">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hotoo/hotoo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hotoo/hotoo/output/github-contribution-grid-snake.svg">
+  <img width='60%' alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hotoo/hotoo/output/github-contribution-grid-snake.svg">
 </picture>
 </a>
-
-github-contribution-grid-snake.yml
-https://github.com/W47-KRTS/W47-KRTS/commit/8c4ddd4a8e3d72f3ca91e73203d939e0203c0132
-8c4ddd4a8e3d72f3ca91e73203d939e0203c0132
-github-contribution-grid-snake.yml
-https://github.com/W47-KRTS/W47-KRTS/blob/main/github-contribution-grid-snake.yml
-"https://raw.githubusercontent.com/W47-KRTS/W47-KRTS/commit/github-contribution-grid-snake.svg"
-
-https://github.com/W47-KRTS/W47-KRTS/blob/f7ae1e22dda755ae22bbd1e6d0b5f3f9f0f004c3/github-contribution-grid-snake.yml
-
-github-contribution-grid-snake.yml
