@@ -18,7 +18,7 @@
 </a>
 <a href="#">
 <picture width='60%'>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-contribution-grid-snake.yml">
+  <source media="(prefers-color-scheme: dark)" srcset="[https://github-contribution-grid-snake.yml](https://github.com/W47-KRTS/W47-KRTS/blob/main/github-contribution-grid-snake.yml)">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/W47-KRTS/W47-KRTS/commit/github-contribution-grid-snake.svg">
   <img width='60%' alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/W47-KRTS/W47-KRTS/commit/github-contribution-grid-snake.svg">
 </picture>
